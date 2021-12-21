@@ -1,0 +1,10 @@
+Q0008,Dinh Ba Tien,23/12/1995,Nam,Quang Ninh,Truong phong,Tu van,5
+B0469,Tran Trung Duc,30/10/1999,Nam,Hue,Nhan vien,May tinh,5
+S0003,Vu Ngoc Linh,05/02/1999,Nu,Ha Noi,To truong,30,24,8
+Q0002,Le Hoang,02/12/2000,Nam,Quang Binh,Truong phong,Maketing,4
+K0001,Tran Trung Hieu,09/11/2000,Nam,Quang Nam,Truong phong,CNTT,Cu nhan
+K0006,Nguyen Minh Tuan,20/12/2000,Nam,Hue,Giam sat,Co khi,Ky su
+S0872,Nguyen Huu Phuc,09/01/2000,Nam,Bac Ninh,Nhan vien,28,25,4
+B0178,Le Thi Hanh,14/02/2001,Nu,Da Nang,Nhan vien,Dien thoai,20
+K0003,Le Thi Hanh,03/08/2001,Nu,Quang Tri,Giam sat,CNTT,Cu nhan
+K0002,Le Van Hao,03/08/2001,Nam,Quang Tri,Giam sat,CNTT,Cu nhan

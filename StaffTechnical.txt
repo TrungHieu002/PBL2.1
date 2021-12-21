@@ -1,0 +1,4 @@
+K0001,Tran Trung Hieu,09/11/2000,Nam,Quang Nam,Truong phong,CNTT,Cu nhan
+K0006,Nguyen Minh Tuan,20/12/2000,Nam,Hue,Giam sat,Co khi,Ky su
+K0003,Le Thi Hanh,03/08/2001,Nu,Quang Tri,Giam sat,CNTT,Cu nhan
+K0002,Le Van Hao,03/08/2001,Nam,Quang Tri,Giam sat,CNTT,Cu nhan

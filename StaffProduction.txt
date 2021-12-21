@@ -1,0 +1,3 @@
+
+S0003,Vu Ngoc Linh,05/02/1999,Nu,Ha Noi,To truong,30,24,8
+S0872,Nguyen Huu Phuc,09/01/2000,Nam,Bac Ninh,Nhan vien,28,25,4

@@ -1,0 +1,10 @@
+S2342,Tran Trung Hieu,23/08/2002,Nam,Quang Tri,To pho,10,30,7
+B0003,Nguyen The Thinh,01/01/1999,Nam,Hue,Nhan vien,Tai nghe,20
+K0120,Nguyen My Linh,06/02/1980,Nu,Da Nang,Truong phong,Co khi,Ky su
+B1023,Pham Phi Long,26/09/2000,Nam,Ha Noi,To truong,Loa,10
+B1000,Cao Phuc Thang,15/09/1999,Nam,Quang Nam,Nhan vien,Op lung,50
+K0001,Cao Tuong Van,07/05/2000,Nu,Quang Binh,Nhan vien,Dien tu,Ky su
+Q0005,Nguyen Hoang Phuc,06/01/1999,Nam,Quang Ngai,Truong phong,Maketing,5
+S0001,Hoang Duc Quan,30/10/2002,Nam,Lao Cai,Nhan vien,30,28,4
+Q0002,Le Van Hao,03/08/2002,Nam,Hai Phong,Pho phong,Ky thuat,4
+K0003,Nguyen Thanh Nam,26/3/1990,Nam,Da Nang,Giam sat,CNTT,Cu nhan
