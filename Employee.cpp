@@ -29,6 +29,7 @@ void Employee::InputEmployee()
     fflush(stdin);
     getline(cin, this->Position);
 }
+// hieu
 void Employee::OutputEmployee()
 {
     cout << setw(6) << left << this->Id << setw(2) << "|" << setw(20) << this->Name << "| " << setw(11) << this->DateOfBirth << "|    " << left << setw(7) << this->Gender
